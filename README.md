@@ -23,7 +23,7 @@ You can select ID by putting its value into numericupdown box.
 To delete data, you just simply put ID into numericupdown and if theres ID that matches, it will be deleted.
 
 ### Import Data
-To import data, you needs to have **active tab, that matched table** you wants to import data into. Data can be imported inly in *XML* format and must match database table columns.
+To import data, you needs to have **active tab, that matched table** you wants to import data into. Data can be imported inly in *XML* format and must match database table columns. Program contains folder with example *XML* file that can be imported.
 
 ---------------------------------------------------------------------------------------------------------------
 
