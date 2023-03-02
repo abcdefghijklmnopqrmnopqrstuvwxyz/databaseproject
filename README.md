@@ -25,5 +25,9 @@ To delete data, you just simply put ID into numericupdown and if theres ID that 
 ### Import Data
 To import data, you needs to have **active tab, that matched table** you wants to import data into. Data can be imported inly in *XML* format and must match database table columns.
 
+### Error Handling
+Program is stable and should react to every error like invalid foreign key, null values etc.
+So the program should not crash, basically it is ![#1589F0]"shyshkaproof"
+
 #### Run Program
 To run the program, you can go to "/bin/Debug/WindowsFormsApp1.exe" or just simply execute Database Management run.bat in the default folder.
