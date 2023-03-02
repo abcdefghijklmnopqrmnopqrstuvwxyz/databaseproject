@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersList>
+  <Customers>
+    <ID>1</ID>
+    <Name>Marcile Mynett</Name>
+    <Address>903 Talisman Avenue</Address>
+    <State>Nevada</State>
+    <Psc>89706</Psc>
+  </Customers>
+  <Customers>
+    <ID>1</ID>
+    <Name>a</Name>
+    <Address>a</Address>
+    <State>a</State>
+    <Psc>66622</Psc>
+  </Customers>
+  <Customers>
+    <ID>3</ID>
+    <Name>Aigneis Antecki</Name>
+    <Address>210 Meadow Ridge Park</Address>
+    <State>Ohio</State>
+    <Psc>45233</Psc>
+  </Customers>
+</CustomersList>
